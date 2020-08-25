@@ -190,7 +190,7 @@
 	"Networks":[
 		{
 			"Name":"[inject] SUN Tu/Ctc/Flp300 1",
-			"Proxy":"1",
+			"Proxy":"0",
 			"Port":"8989",
 			"Network":"sun",
 			"Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
@@ -198,7 +198,7 @@
 		},
 		{
 			"Name":"[inject] SUN Tu/Ctc/Flp300 2",
-			"Proxy":"2",
+			"Proxy":"0",
 			"Port":"8080",
 			"Network":"sun",
 			"Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
@@ -206,7 +206,7 @@
 		},
 		{
 			"Name":"[inject] SUN Tu/Ctc/Flp300 3",
-			"Proxy":"1",
+			"Proxy":"0",
 			"Port":"8080",
 			"Network":"sun",
 			"Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
@@ -239,7 +239,7 @@
 	],
 	"Version":[
 		{
-			"Name":"1.2"
+			"Name":"1.3"
 		}
 	]
 }
