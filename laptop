@@ -1,63 +1,63 @@
 {
 	"Premium":[
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-bu.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[Prem] Back-UP SG"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-inb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"Bongalore-1"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-inb2.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"Bongalore-2"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-inb3.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"Bongalore-3"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-inb4.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"Bongalore-4"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-deb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[Prem] GERMANY-1"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-deb2.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[Prem] GERMANY-2"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-deb3.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[Prem] GERMANY-3"
 		},
 		{
-			"Category":0,
+			"Category":1,
 			"Ip":"www.viber.com.edgekey.net.pre-deb4.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
@@ -66,56 +66,56 @@
 	],
 	"Vip":[
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-sgtn.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[ViP] Torrent Netflix"
 		},
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-inb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[ViP] BONGALORE"
 		},
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-deb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[ViP] GERMANY"
 		},
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-sgb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[ViP] Singapore-1"
 		},
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-sgb2.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[ViP] Singapore-2"
 		},
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-sgg1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[ViP] SG Gaming-1"
 		},
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-sgg2.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"Name":"[ViP] SG Gaming-2"
 		},
 		{
-			"Category":1,
+			"Category":2,
 			"Ip":"www.viber.com.edgekey.net.vip-sgg3.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
@@ -124,49 +124,49 @@
 	],
 	"Private":[
 		{
-			"Category":2,
+			"Category":3,
 			"Ip":"www.viber.com.edgekey.net.pri-ustn.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"N,ame":"[Priv] Torrent Netflix"
 		},
 		{
-			"Category":2,
+			"Category":3,
 			"Ip":"www.viber.com.edgekey.net.pri-inb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"N,ame":"[Priv] BONGALORE"
 		},
 		{
-			"Category":2,
+			"Category":3,
 			"Ip":"www.viber.com.edgekey.net.pri-deb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"N,ame":"[Priv] GERMANY"
 		},
 		{
-			"Category":2,
+			"Category":3,
 			"Ip":"www.viber.com.edgekey.net.pri-sgb1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"N,ame":"[Priv] SINGAPORE"
 		},
 		{
-			"Category":2,
+			"Category":3,
 			"Ip":"www.viber.com.edgekey.net.pri-sgg1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"N,ame":"[Priv] SG Gaming-1"
 		},
 		{
-			"Category":2,
+			"Category":3,
 			"Ip":"www.viber.com.edgekey.net.pri-sgg2.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
 			"N,ame":"[Priv] SG Gaming-2"
 		},
 		{
-			"Category":2,
+			"Category":3,
 			"Ip":"www.viber.com.edgekey.net.pri-phs1.ultimate-vpn.xyz",
 			"udp":"0",
 			"Flag":"sg",
@@ -176,15 +176,15 @@
 	"categ":[
 		{
 			"Name":"Premium",
-			"Category":0
-		},
-		{
-			"Name":"VIP",
 			"Category":1
 		},
 		{
-			"Name":"Private",
+			"Name":"VIP",
 			"Category":2
+		},
+		{
+			"Name":"Private",
+			"Category":3
 		}
 	],
 	"Networks":[
@@ -239,7 +239,7 @@
 	],
 	"Version":[
 		{
-			"Name":"1.3"
+			"Name":"1.4"
 		}
 	]
 }
