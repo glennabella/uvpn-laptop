@@ -193,21 +193,21 @@
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-ssg1.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.vip-sgg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[ViP] (Turbo Gaming)1"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-ssg2.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.vip-sgg2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[ViP] (Turbo Gaming)2"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-ssg3.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.vip-sgg3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[ViP] (Turbo Gaming)3"
@@ -435,7 +435,7 @@
    ],
    "Version":[
       {
-         "Name":"1.8"
+         "Name":"2.96"
       }
    ]
 }
