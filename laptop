@@ -2,222 +2,152 @@
    "Premium":[
       {
          "Category":0,
-         "Ip":"1234",
+         "Ip":"9.9.9.9",
          "udp":"0",
          "Flag":"kz",
-         "Name":"- FOR SUN PROMO -"
+         "Name":"==SUN & GTM Server=="
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb1.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.pre-sgbu.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing1"
+         "Name":"[Prem] Browsing SG-1"
       },
       {
          "Category":0,
          "Ip":"www.viber.com.edgekey.net.pre-sgb2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing2"
+         "Name":"[Prem] Browsing SG-2"
       },
       {
          "Category":0,
          "Ip":"www.viber.com.edgekey.net.pre-sgb3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing3"
+         "Name":"[Prem] Browsing SG-3"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb4.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.pre-usb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing4"
+         "Name":"[Prem] Browsing US-1"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb5.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.pre-usb2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing5"
+         "Name":"[Prem] Browsing US-2"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb6.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.pre-usb3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing6"
+         "Name":"[Prem] Browsing US-3"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb7.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing7"
-      },
-      {
-         "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb8.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing8"
-      },
-      {
-         "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb9.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing9"
-      },
-      {
-         "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-bu.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] (Back-UP)"
-      },
-      {
-         "Category":0,
-         "Ip":"1234",
+         "Ip":"9.9.9.9",
          "udp":"0",
          "Flag":"kz",
-         "Name":"- FOR GiGa-STORiES -"
+         "Name":"==GigaStories Server=="
       },
       {
          "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb1.ultimatevpn.xyz",
+         "Ip":"api-stream.twitter.com.pre-sgbu.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing 1"
+         "Name":"[Prem] Browsing SG-1"
       },
       {
          "Category":0,
          "Ip":"api-stream.twitter.com.pre-sgb2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing 2"
+         "Name":"[Prem] Browsing SG-2"
       },
       {
          "Category":0,
          "Ip":"api-stream.twitter.com.pre-sgb3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing 3"
+         "Name":"[Prem] Browsing SG-3"
       },
       {
          "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb4.ultimatevpn.xyz",
+         "Ip":"api-stream.twitter.com.pre-usb1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing 4"
+         "Flag":"us",
+         "Name":"[Prem] Browsing US-1"
       },
       {
          "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb5.ultimatevpn.xyz",
+         "Ip":"api-stream.twitter.com.pre-usb2.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing 5"
+         "Flag":"us",
+         "Name":"[Prem] Browsing US-2"
       },
       {
          "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb6.ultimatevpn.xyz",
+         "Ip":"api-stream.twitter.com.pre-usb3.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing 6"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb7.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing 7"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb8.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing 8"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb9.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing 9"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-bu.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] ( Back-UP )"
+         "Flag":"us",
+         "Name":"[Prem] Browsing US-3"
       }
    ],
    "Vip":[
       {
          "Category":1,
-         "Ip":"1234",
+         "Ip":"9.9.9.9",
          "udp":"0",
          "Flag":"kz",
-         "Name":"- FOR SUN PROMO -"
+         "Name":"==SUN & GTM Server=="
       },
       {
          "Category":1,
          "Ip":"www.viber.com.edgekey.net.vip-tornet.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Torrent &  Netflix"
+         "Name":"[ViP] Torrent & Netflix"
       },
       {
          "Category":1,
          "Ip":"www.viber.com.edgekey.net.vip-sgb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Turbo Browsing1"
+         "Name":"[ViP] Browsing-SGDO"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-sgb2.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.vip-jpb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Turbo Browsing2"
-      },
-      {
-         "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-sgb3.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] Turbo Browsing3"
+         "Name":"[ViP] Browsing-Japan"
       },
       {
          "Category":1,
          "Ip":"www.viber.com.edgekey.net.vip-sgg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] (Turbo Gaming)1"
+         "Name":"[ViP] GAMING - SGDO"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-sgg2.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.vip-jpg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] (Turbo Gaming)2"
+         "Name":"[ViP] GAMING -Japan"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-sgg3.ultimatevpn.xyz",
+         "Ip":"9.9.9.9",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] (Turbo Gaming)3"
-      },
-      {
-         "Category":1,
-         "Ip":"1234",
-         "udp":"0",
-         "Flag":"kz",
-         "Name":"- FOR GiGa-STORiES -"
+         "Name":"==GigaStories Server=="
       },
       {
          "Category":1,
@@ -231,57 +161,43 @@
          "Ip":"api-stream.twitter.com.vip-sgb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Turbo Browsing 1"
+         "Name":"[ViP] Browsing-SGDO"
       },
       {
          "Category":1,
-         "Ip":"api-stream.twitter.com.vip-sgb2.ultimatevpn.xyz",
+         "Ip":"api-stream.twitter.com.vip-jpb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Turbo Browsing 2"
-      },
-      {
-         "Category":1,
-         "Ip":"api-stream.twitter.com.vip-sgb3.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] Turbo Browsing 3"
+         "Name":"[ViP] Browsing-Japan"
       },
       {
          "Category":1,
          "Ip":"api-stream.twitter.com.vip-sgg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] (Turbo Gaming) 1"
+         "Name":"[ViP] GAMING - SGDO"
       },
       {
          "Category":1,
-         "Ip":"api-stream.twitter.com.vip-sgg2.ultimatevpn.xyz",
+         "Ip":"api-stream.twitter.com.vip-jpg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] (Turbo Gaming) 2"
-      },
-      {
-         "Category":1,
-         "Ip":"api-stream.twitter.com.vip-sgg3.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] (Turbo Gaming) 3"
+         "Name":"[ViP] GAMING -Japan"
       }
    ],
    "Private":[
       {
          "Category":2,
-         "Ip":"1234",
+         "Ip":"9.9.9.9",
          "udp":"0",
          "Flag":"kz",
-         "Name":"- FOR SUN PROMO -"
+         "Name":"==SUN & GTM Server==,"
       },
       {
          "Category":2,
          "Ip":"www.viber.com.edgekey.net.pri-tornet.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
+         "Flag":"us",
          "Name":"[Priv] Torrent & Netflix"
       },
       {
@@ -289,48 +205,41 @@
          "Ip":"www.viber.com.edgekey.net.pri-sgb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Priv] Turbo Browsing1"
-      },
-      {
-         "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-sgb2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] Turbo Browsing2"
-      },
-      {
-         "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-sgg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] (Turbo Gaming)1"
-      },
-      {
-         "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-sgg2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] (Turbo Gaming)2"
+         "Name":"[Priv] Browsing-SGDO"
       },
       {
          "Category":2,
          "Ip":"www.viber.com.edgekey.net.pri-phb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Priv] Philippine Surfing"
+         "Name":"[Priv] Browsing-PH-MNL2"
       },
       {
          "Category":2,
-         "Ip":"1234",
+         "Ip":"www.viber.com.edgekey.net.pri-sgg1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"[Priv] GAMING - SGDO"
+      },
+      {
+         "Category":2,
+         "Ip":"www.viber.com.edgekey.net.pri-phg1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"[Priv] GAMING-PH-MNL2"
+      },
+      {
+         "Category":2,
+         "Ip":"9.9.9.9",
          "udp":"0",
          "Flag":"kz",
-         "Name":"- FOR GiGa-STORiES -"
+         "Name":"==GigaStories Server=="
       },
       {
          "Category":2,
          "Ip":"api-stream.twitter.com.pri-tornet.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
+         "Flag":"us",
          "Name":"[Priv] Torrent & Netflix"
       },
       {
@@ -338,35 +247,28 @@
          "Ip":"api-stream.twitter.com.pri-sgb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Priv] Turbo Browsing 1"
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-sgb2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] Turbo Browsing 2"
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-sgg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] (Turbo Gaming) 1"
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-sgg2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] (Turbo Gaming) 2"
+         "Name":"[Priv] Browsing-SGDO"
       },
       {
          "Category":2,
          "Ip":"api-stream.twitter.com.pri-phb1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Priv] Philippine Surfing"
+         "Name":"[Priv] Browsing-PH-MNL2"
+      },
+      {
+         "Category":2,
+         "Ip":"api-stream.twitter.com.pri-sgg1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"[Priv] GAMING - SGDO"
+      },
+      {
+         "Category":2,
+         "Ip":"api-stream.twitter.com.pri-phg1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"ph",
+         "Name":"[Priv] GAMING-PH-MNL2"
       }
    ],
    "categ":[
@@ -402,7 +304,7 @@
       },
       {
          "Name":"[inject] SUN Tu/Ctc/Flp300 1",
-         "Proxy":"1",
+         "Proxy":"0",
          "Port":"8989",
          "Network":"sun",
          "Payload":"nMDkGOK+nwnAo4Kr7+pD0Al2+MvUqfmVRITuIVu7ul9L4wOF2lZo0GFaFAK3VTzQ",
@@ -410,7 +312,7 @@
       },
       {
          "Name":"[inject] SUN Tu/Ctc/Flp300 2",
-         "Proxy":"2",
+         "Proxy":"0",
          "Port":"8080",
          "Network":"sun",
          "Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
@@ -418,7 +320,7 @@
       },
       {
          "Name":"[inject] SUN Tu/Ctc/Flp300 3",
-         "Proxy":"1",
+         "Proxy":"0",
          "Port":"8080",
          "Network":"sun",
          "Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
@@ -435,7 +337,7 @@
    ],
    "Version":[
       {
-         "Name":"2.96"
+         "Name":"2.97"
       }
    ]
 }
