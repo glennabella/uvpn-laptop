@@ -319,7 +319,7 @@
          "Message":"Any GLOBE/TM promo with DATA MB"
       },
       {
-         "Name":"[Payload] SUN FixPlan300 1",
+         "Name":"[Payload] SUN FixLoadPlan300 1",
          "Proxy":"0",
          "Port":"3128",
          "Network":"sun",
@@ -327,7 +327,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixPlan300 2",
+         "Name":"[Payload] SUN FixLoadPlan300 2",
          "Proxy":"1",
          "Port":"3128",
          "Network":"sun",
@@ -335,7 +335,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixPlan300 3",
+         "Name":"[Payload] SUN FixLoadPlan300 3",
          "Proxy":"2",
          "Port":"3128",
          "Network":"sun",
@@ -343,7 +343,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
       {
-         "Name":"[Payload] SUN FixPlan300 4",
+         "Name":"[Payload] SUN FixLoadPlan300 4",
          "Proxy":"0",
          "Port":"3128",
          "Network":"sun",
@@ -351,7 +351,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixPlan300 5",
+         "Name":"[Payload] SUN FixLoadPlan300 5",
          "Proxy":"1",
          "Port":"3128",
          "Network":"sun",
@@ -359,7 +359,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixPlan300 6",
+         "Name":"[Payload] SUN FixLoadPlan300 6",
          "Proxy":"2",
          "Port":"3128",
          "Network":"sun",
@@ -385,7 +385,8 @@
    ],
    "Version":[
       {
-         "Name":"3.05"
+         "Name":"3.06"
       }
    ]
 }
+
