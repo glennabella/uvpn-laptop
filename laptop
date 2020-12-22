@@ -319,7 +319,7 @@
          "Message":"Any GLOBE/TM promo with DATA MB"
       },
       {
-         "Name":"[Payload] SUN FixLoadPlan300 1",
+         "Name":"[Payload] SUN FixPlan300 A-1",
          "Proxy":"0",
          "Port":"3128",
          "Network":"sun",
@@ -327,7 +327,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixLoadPlan300 2",
+         "Name":"[Payload] SUN FixPlan300 A-2",
          "Proxy":"1",
          "Port":"3128",
          "Network":"sun",
@@ -335,7 +335,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixLoadPlan300 3",
+         "Name":"[Payload] SUN FixPlan300 A-3",
          "Proxy":"2",
          "Port":"3128",
          "Network":"sun",
@@ -343,7 +343,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
       {
-         "Name":"[Payload] SUN FixLoadPlan300 4",
+         "Name":"[Payload] SUN FixPlan300 B-1",
          "Proxy":"0",
          "Port":"3128",
          "Network":"sun",
@@ -351,7 +351,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixLoadPlan300 5",
+         "Name":"[Payload] SUN FixPlan300 B-2",
          "Proxy":"1",
          "Port":"3128",
          "Network":"sun",
@@ -359,7 +359,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
 	        {
-         "Name":"[Payload] SUN FixLoadPlan300 6",
+         "Name":"[Payload] SUN FixPlan300 B-3",
          "Proxy":"2",
          "Port":"3128",
          "Network":"sun",
@@ -367,57 +367,57 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
       {
-         "Name":"[Payload] Smart GigaStories 1",
+         "Name":"[Payload] Smart GigaStories A-1",
          "Proxy":"0",
          "Port":"3128",
          "Network":"smart",
          "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
-         "Message":"Register to GIGA-STORIES promo"
+         "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
       {
-         "Name":"[Payload] Smart GigaStories 2",
+         "Name":"[Payload] Smart GigaStories A-2",
          "Proxy":"1",
          "Port":"3128",
          "Network":"smart",
          "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
-         "Message":"Register to GIGA-STORIES promo"
+         "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
       {
-         "Name":"[Payload] Smart GigaStories 3",
+         "Name":"[Payload] Smart GigaStories A-3",
          "Proxy":"2",
          "Port":"3128",
          "Network":"smart",
          "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
-         "Message":"Register to GIGA-STORIES promo"
+         "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
       {
-         "Name":"[Payload] Smart GigaStories 4",
+         "Name":"[Payload] Smart GigaStories B-1",
          "Proxy":"0",
          "Port":"3128",
          "Network":"smart",
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
-         "Message":"Register to GIGA-STORIES promo"
+         "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
 	        {
-         "Name":"[Payload] Smart GigaStories 5",
+         "Name":"[Payload] Smart GigaStories B-2",
          "Proxy":"1",
          "Port":"3128",
          "Network":"smart",
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
-         "Message":"Register to GIGA-STORIES promo"
+         "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
       {
-         "Name":"[Payload] Smart GigaStories 6",
+         "Name":"[Payload] Smart GigaStories B-3",
          "Proxy":"2",
          "Port":"3128",
          "Network":"smart",
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
-         "Message":"Register to GIGA-STORIES promo"
+         "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       }
    ],
    "Version":[
       {
-         "Name":"3.07"
+         "Name":"3.08"
       }
    ]
 }
