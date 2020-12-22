@@ -287,20 +287,36 @@
    ],
    "Networks":[
       {
-         "Name":"[inject] GTM Youtube Bypass 1",
+         "Name":"[Payload] GTM ANY-PROMO 1",
          "Proxy":"0",
-         "Port":"8080",
+         "Port":"3128",
          "Network":"globe",
-         "Payload":"nMDkGOK+nwnAo4Kr7+pD0Al2+MvUqfmVRITuIVu7ul9L4wOF2lZo0GFaFAK3VTzQ",
-         "Message":"fo gtm users only"
+         "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
+         "Message":"Any GLOBE/TM promo with DATA MB"
       },
       {
-         "Name":"Globe & TM All in 1 Payload 1",
-         "Proxy":"0",
-         "Port":"8080",
+         "Name":"[Payload] GTM ANY-PROMO 2",
+         "Proxy":"1",
+         "Port":"3128",
          "Network":"globe",
-         "Payload":"mPJ6vohlHXt1+mV62FysnezWaFkmTRsbPKA7uCPV3KTuhklAEjdYumUxY5cwMU1pu7uYpdUcVD8=",
-         "Message":"fo gtm users only"
+         "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
+         "Message":"Any GLOBE/TM promo with DATA MB"
+      },
+	        {
+         "Name":"[Payload] GTM ANY-PROMO 3",
+         "Proxy":"2",
+         "Port":"3128",
+         "Network":"globe",
+         "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
+         "Message":"Any GLOBE/TM promo with DATA MB"
+      },
+	        {
+         "Name":"[Payload] GTM ANY-PROMO 4",
+         "Proxy":"3",
+         "Port":"3128",
+         "Network":"globe",
+         "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
+         "Message":"Any GLOBE/TM promo with DATA MB"
       },
       {
          "Name":"[inject] SUN Tu/Ctc/Flp300 1",
@@ -337,8 +353,7 @@
    ],
    "Version":[
       {
-         "Name":"3.03"
+         "Name":"3.04"
       }
    ]
 }
-
