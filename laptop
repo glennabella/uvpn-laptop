@@ -9,24 +9,24 @@
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgbu.ultimatevpn.xyz",
+         "Ip":"1pre1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing SG-1"
+         "Flag":"us",
+         "Name":"[Server] Torrent Netflix"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb2.ultimatevpn.xyz",
+         "Ip":"1pre2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing SG-2"
+         "Name":"[Server] BROWSING -1"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-sgb3.ultimatevpn.xyz",
+         "Ip":"1pre3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Prem] Browsing SG-3"
+         "Name":"[Server] BROWSING -2"
       },
       {
          "Category":0,
@@ -109,24 +109,24 @@
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-tornet.ultimatevpn.xyz",
+         "Ip":"2vip1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Torrent & Netflix"
+         "Name":"[ViP] BROWSING -1"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-sgb1.ultimatevpn.xyz",
+         "Ip":"2vip2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Browsing-SGDO"
+         "Name":"[ViP] BROWSING -2"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-jpb1.ultimatevpn.xyz",
+         "Ip":"2vip3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] Browsing-Japan"
+         "Name":"[ViP] BROWSING -3"
       },
       {
          "Category":1,
@@ -337,7 +337,7 @@
    ],
    "Version":[
       {
-         "Name":"3.02"
+         "Name":"3.03"
       }
    ]
 }
