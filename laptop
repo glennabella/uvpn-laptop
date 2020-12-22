@@ -319,25 +319,26 @@
          "Message":"for sun users only"
       },
       {
-         "Name":"[inject] SUN Tu/Ctc/Flp300 3",
+         "Name":"Smart/Sun/Tnt (G-Stories) 1",
          "Proxy":"0",
-         "Port":"8080",
-         "Network":"sun",
-         "Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
-         "Message":"for sun users only"
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
+         "Message":"Register to GIGA-STORIES promo"
       },
       {
-         "Name":"Smart/Tnt GigaStories",
+         "Name":"Smart/Sun/Tnt (G-Stories) 2",
          "Proxy":"0",
-         "Port":"8080",
+         "Port":"3128",
          "Network":"smart",
-         "Payload":"CONNECT [host_port] [protocol][crlf][crlf]POST https://api-stream.twitter.com [protocol][crlf]Host: api-stream.twitter.com[crlf]Connection: Keep-Alive[crlf][crlf]",
-         "Message":"fo smart & tnt users only"
+         "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
+         "Message":"Register to GIGA-STORIES promo"
       }
    ],
    "Version":[
       {
-         "Name":"2.97"
+         "Name":"2.98"
       }
    ]
 }
+0
