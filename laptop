@@ -319,20 +319,52 @@
          "Message":"Any GLOBE/TM promo with DATA MB"
       },
       {
-         "Name":"[inject] SUN Tu/Ctc/Flp300 1",
+         "Name":"[Payload] SUN FixPlan300 1",
          "Proxy":"0",
-         "Port":"8989",
+         "Port":"3128",
          "Network":"sun",
-         "Payload":"nMDkGOK+nwnAo4Kr7+pD0Al2+MvUqfmVRITuIVu7ul9L4wOF2lZo0GFaFAK3VTzQ",
-         "Message":"for sun users only"
+         "Payload":"vcOdCQIi+qqJNn6ag6K+5GVrR0S2ggaA1J3mP0zRPVgwcQtfZZ6tcA==",
+         "Message":"SUN FixLoadPlan300 Only"
+      },
+	        {
+         "Name":"[Payload] SUN FixPlan300 2",
+         "Proxy":"1",
+         "Port":"3128",
+         "Network":"sun",
+         "Payload":"vcOdCQIi+qqJNn6ag6K+5GVrR0S2ggaA1J3mP0zRPVgwcQtfZZ6tcA==",
+         "Message":"SUN FixLoadPlan300 Only"
+      },
+	        {
+         "Name":"[Payload] SUN FixPlan300 3",
+         "Proxy":"2",
+         "Port":"3128",
+         "Network":"sun",
+         "Payload":"vcOdCQIi+qqJNn6ag6K+5GVrR0S2ggaA1J3mP0zRPVgwcQtfZZ6tcA==",
+         "Message":"SUN FixLoadPlan300 Only"
       },
       {
-         "Name":"[inject] SUN Tu/Ctc/Flp300 2",
+         "Name":"[Payload] SUN FixPlan300 4",
          "Proxy":"0",
-         "Port":"8080",
+         "Port":"3128",
          "Network":"sun",
          "Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
-         "Message":"for sun users only"
+         "Message":"SUN FixLoadPlan300 Only"
+      },
+	        {
+         "Name":"[Payload] SUN FixPlan300 5",
+         "Proxy":"1",
+         "Port":"3128",
+         "Network":"sun",
+         "Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
+         "Message":"SUN FixLoadPlan300 Only"
+      },
+	        {
+         "Name":"[Payload] SUN FixPlan300 6",
+         "Proxy":"2",
+         "Port":"3128",
+         "Network":"sun",
+         "Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
+         "Message":"SUN FixLoadPlan300 Only"
       },
       {
          "Name":"Smart/Sun/Tnt (G-Stories) 1",
@@ -353,7 +385,7 @@
    ],
    "Version":[
       {
-         "Name":"3.04"
+         "Name":"3.05"
       }
    ]
 }
