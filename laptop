@@ -2,273 +2,385 @@
    "Premium":[
       {
          "Category":0,
-         "Ip":"9.9.9.9",
+         "Ip":"www.viber.com.edgekey.net.1pre1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"kz",
-         "Name":"==SUN & GTM Server=="
+         "Flag":"us",
+         "Name":"(TU/CTC/FLP) Torrent & Netflix"
+      },
+      {
+         "Category":0,
+         "Ip":"www.viber.com.edgekey.net.1pre2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(TU/CTC/FLP) SINGAPORE - 1"
+      },
+      {
+         "Category":0,
+         "Ip":"www.viber.com.edgekey.net.1pre3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(TU/CTC/FLP) SINGAPORE - 2"
+      },
+      {
+         "Category":0,
+         "Ip":"p16-va.tiktokcdn.com.1pre1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"us",
+         "Name":"(GiGa-Stories) Torrent & Netflix"
+      },
+      {
+         "Category":0,
+         "Ip":"p16-va.tiktokcdn.com.1pre2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GiGa-Stories) SINGAPORE - 1"
+      },
+      {
+         "Category":0,
+         "Ip":"p16-va.tiktokcdn.com.1pre3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GiGa-Stories) SINGAPORE - 2"
+      },
+      {
+         "Category":0,
+         "Ip":"new.mobilelegends.com.1pre1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"us",
+         "Name":"( GAMETIME ) Torrent & Netflix"
+      },
+      {
+         "Category":0,
+         "Ip":"new.mobilelegends.com.1pre2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GAMETIME ) SINGAPORE - 1"
+      },
+      {
+         "Category":0,
+         "Ip":"new.mobilelegends.com.1pre3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GAMETIME ) SINGAPORE - 2"
+      },
+      {
+         "Category":0,
+         "Ip":"img.iwantv.ph.1pre1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"us",
+         "Name":"( GiGA-Video ) Torrent & Netflix"
+      },
+      {
+         "Category":0,
+         "Ip":"img.iwantv.ph.1pre2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GiGA-Video ) SINGAPORE - 1"
+      },
+      {
+         "Category":0,
+         "Ip":"img.iwantv.ph.1pre3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GiGA-Video ) SINGAPORE - 2"
+      },
+      {
+         "Category":0,
+         "Ip":"www.google.com.1pre1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"us",
+         "Name":"(GIGA-STUDY) Torrent & Netflix"
+      },
+      {
+         "Category":0,
+         "Ip":"www.google.com.1pre2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GIGA-STUDY) SINGAPORE - 1"
+      },
+      {
+         "Category":0,
+         "Ip":"www.google.com.1pre3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GIGA-STUDY) SINGAPORE - 2"
       },
       {
          "Category":0,
          "Ip":"1pre1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"us",
-         "Name":"[Server] Torrent Netflix"
+         "Name":"( Basic - DNS ) Torrent & Netflix"
       },
       {
          "Category":0,
          "Ip":"1pre2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Server] BROWSING -1"
+         "Name":"( Basic - DNS ) SINGAPORE - 1"
       },
       {
          "Category":0,
          "Ip":"1pre3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Server] BROWSING -2"
-      },
-      {
-         "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-usb1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing US-1"
-      },
-      {
-         "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-usb2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing US-2"
-      },
-      {
-         "Category":0,
-         "Ip":"www.viber.com.edgekey.net.pre-usb3.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing US-3"
-      },
-      {
-         "Category":0,
-         "Ip":"9.9.9.9",
-         "udp":"0",
-         "Flag":"kz",
-         "Name":"==GigaStories Server=="
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgbu.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing SG-1"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing SG-2"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-sgb3.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Prem] Browsing SG-3"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-usb1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"us",
-         "Name":"[Prem] Browsing US-1"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-usb2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"us",
-         "Name":"[Prem] Browsing US-2"
-      },
-      {
-         "Category":0,
-         "Ip":"api-stream.twitter.com.pre-usb3.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"us",
-         "Name":"[Prem] Browsing US-3"
+         "Name":"( Basic - DNS ) SINGAPORE - 2"
       }
    ],
    "Vip":[
       {
          "Category":1,
-         "Ip":"9.9.9.9",
+         "Ip":"www.viber.com.edgekey.net.2vip1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"kz",
-         "Name":"==SUN & GTM Server=="
+         "Flag":"sg",
+         "Name":"(TU/CTC/FLP) SINGAPORE - 1"
+      },
+      {
+         "Category":1,
+         "Ip":"www.viber.com.edgekey.net.2vip2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(TU/CTC/FLP) SINGAPORE - 2"
+      },
+      {
+         "Category":1,
+         "Ip":"www.viber.com.edgekey.net.2vip3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(TU/CTC/FLP) SINGAPORE - 3"
+      },
+      {
+         "Category":1,
+         "Ip":"p16-va.tiktokcdn.com.2vip1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GiGa-Stories) SINGAPORE - 1"
+      },
+      {
+         "Category":1,
+         "Ip":"p16-va.tiktokcdn.com.2vip2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GiGa-Stories) SINGAPORE - 2"
+      },
+      {
+         "Category":1,
+         "Ip":"p16-va.tiktokcdn.com.2vip3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GiGa-Stories) SINGAPORE - 3"
+      },
+      {
+         "Category":1,
+         "Ip":"new.mobilelegends.com.2vip1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GAMETIME ) SINGAPORE - 1"
+      },
+      {
+         "Category":1,
+         "Ip":"new.mobilelegends.com.2vip2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GAMETIME ) SINGAPORE - 2"
+      },
+      {
+         "Category":1,
+         "Ip":"new.mobilelegends.com.2vip3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GAMETIME ) SINGAPORE - 3"
+      },
+      {
+         "Category":1,
+         "Ip":"img.iwantv.ph.2vip1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GiGA-Video ) SINGAPORE - 1"
+      },
+      {
+         "Category":1,
+         "Ip":"img.iwantv.ph.2vip2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GiGA-Video ) SINGAPORE - 2"
+      },
+      {
+         "Category":1,
+         "Ip":"img.iwantv.ph.2vip3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GiGA-Video ) SINGAPORE - 3"
+      },
+      {
+         "Category":1,
+         "Ip":"www.google.com.2vip1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GIGA-STUDY) SINGAPORE - 1"
+      },
+      {
+         "Category":1,
+         "Ip":"www.google.com.2vip2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GIGA-STUDY) SINGAPORE - 2"
+      },
+      {
+         "Category":1,
+         "Ip":"www.google.com.2vip3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GIGA-STUDY) SINGAPORE - 3"
       },
       {
          "Category":1,
          "Ip":"2vip1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] BROWSING -1"
+         "Name":"( Basic - DNS ) SINGAPORE - 1"
       },
       {
          "Category":1,
          "Ip":"2vip2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] BROWSING -2"
+         "Name":"( Basic - DNS ) SINGAPORE - 2"
       },
       {
          "Category":1,
-         "Ip":"2vip3.ultimatevpn.xyz",
+         "Ip":"2vip2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[ViP] BROWSING -3"
-      },
-      {
-         "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-sgg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] GAMING - SGDO"
-      },
-      {
-         "Category":1,
-         "Ip":"www.viber.com.edgekey.net.vip-jpg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] GAMING -Japan"
-      },
-      {
-         "Category":1,
-         "Ip":"9.9.9.9",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"==GigaStories Server=="
-      },
-      {
-         "Category":1,
-         "Ip":"api-stream.twitter.com.vip-tornet.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] Torrent & Netflix"
-      },
-      {
-         "Category":1,
-         "Ip":"api-stream.twitter.com.vip-sgb1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] Browsing-SGDO"
-      },
-      {
-         "Category":1,
-         "Ip":"api-stream.twitter.com.vip-jpb1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] Browsing-Japan"
-      },
-      {
-         "Category":1,
-         "Ip":"api-stream.twitter.com.vip-sgg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] GAMING - SGDO"
-      },
-      {
-         "Category":1,
-         "Ip":"api-stream.twitter.com.vip-jpg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[ViP] GAMING -Japan"
+         "Name":"( Basic - DNS ) SINGAPORE - 3"
       }
    ],
    "Private":[
       {
          "Category":2,
-         "Ip":"9.9.9.9",
-         "udp":"0",
-         "Flag":"kz",
-         "Name":"==SUN & GTM Server==,"
-      },
-      {
-         "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-tornet.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"us",
-         "Name":"[Priv] Torrent & Netflix"
-      },
-      {
-         "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-sgb1.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.3pri1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Priv] Browsing-SGDO"
+         "Name":"(TU/CTC/FLP) SINGAPORE - 1,"
       },
       {
          "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-phb1.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.3pri2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Priv] Browsing-PH-MNL2"
+         "Name":"(TU/CTC/FLP) SINGAPORE - 2"
       },
       {
          "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-sgg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] GAMING - SGDO"
-      },
-      {
-         "Category":2,
-         "Ip":"www.viber.com.edgekey.net.pri-phg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] GAMING-PH-MNL2"
-      },
-      {
-         "Category":2,
-         "Ip":"9.9.9.9",
-         "udp":"0",
-         "Flag":"kz",
-         "Name":"==GigaStories Server=="
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-tornet.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"us",
-         "Name":"[Priv] Torrent & Netflix"
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-sgb1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] Browsing-SGDO"
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-phb1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] Browsing-PH-MNL2"
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-sgg1.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"[Priv] GAMING - SGDO"
-      },
-      {
-         "Category":2,
-         "Ip":"api-stream.twitter.com.pri-phg1.ultimatevpn.xyz",
+         "Ip":"www.viber.com.edgekey.net.3pri3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"ph",
-         "Name":"[Priv] GAMING-PH-MNL2"
+         "Name":"(TU/CTC/FLP)  PHILIPPINES"
+      },
+      {
+         "Category":2,
+         "Ip":"p16-va.tiktokcdn.com.3pri1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GiGa-Stories) SINGAPORE - 1,"
+      },
+      {
+         "Category":2,
+         "Ip":"p16-va.tiktokcdn.com.3pri2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GiGa-Stories) SINGAPORE - 2"
+      },
+      {
+         "Category":2,
+         "Ip":"p16-va.tiktokcdn.com.3pri3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"ph",
+         "Name":"(GiGa-Stories)  PHILIPPINES"
+      },
+      {
+         "Category":2,
+         "Ip":"new.mobilelegends.com.3pri1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GAMETIME ) SINGAPORE - 1,"
+      },
+      {
+         "Category":2,
+         "Ip":"new.mobilelegends.com.3pri2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GAMETIME ) SINGAPORE - 2"
+      },
+      {
+         "Category":2,
+         "Ip":"new.mobilelegends.com.3pri3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"ph",
+         "Name":"( GAMETIME )  PHILIPPINES"
+      },
+      {
+         "Category":2,
+         "Ip":"img.iwantv.ph.3pri1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GiGA-Video ) SINGAPORE - 1,"
+      },
+      {
+         "Category":2,
+         "Ip":"img.iwantv.ph.3pri2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( GiGA-Video ) SINGAPORE - 2"
+      },
+      {
+         "Category":2,
+         "Ip":"img.iwantv.ph.3pri3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"ph",
+         "Name":"( GiGA-Video )  PHILIPPINES"
+      },
+      {
+         "Category":2,
+         "Ip":"www.google.com.3pri1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GIGA-STUDY) SINGAPORE - 1,"
+      },
+      {
+         "Category":2,
+         "Ip":"www.google.com.3pri3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"(GIGA-STUDY) SINGAPORE - 2"
+      },
+      {
+         "Category":2,
+         "Ip":"www.google.com.3pri3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"ph",
+         "Name":"(GIGA-STUDY)  PHILIPPINES"
+      },
+      {
+         "Category":2,
+         "Ip":"3pri1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( Basic - DNS ) SINGAPORE - 1,"
+      },
+      {
+         "Category":2,
+         "Ip":"3pri2.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"( Basic - DNS ) SINGAPORE - 2"
+      },
+      {
+         "Category":2,
+         "Ip":"3pri3.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"ph",
+         "Name":"( Basic - DNS )  PHILIPPINES"
       }
    ],
    "categ":[
@@ -473,7 +585,7 @@
    ],
    "Version":[
       {
-         "Name":"3.09"
+         "Name":"3.11"
       }
    ]
 }
