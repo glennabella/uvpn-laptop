@@ -302,7 +302,7 @@
          "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
          "Message":"Any GLOBE/TM promo with DATA MB"
       },
-	        {
+	  {
          "Name":"[Payload] GTM ANY-PROMO 3",
          "Proxy":"2",
          "Port":"3128",
@@ -310,7 +310,7 @@
          "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
          "Message":"Any GLOBE/TM promo with DATA MB"
       },
-	        {
+	  {
          "Name":"[Payload] GTM ANY-PROMO 4",
          "Proxy":"3",
          "Port":"3128",
@@ -398,7 +398,7 @@
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
          "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
-	        {
+	  {
          "Name":"[Payload] Smart GigaStories B-2",
          "Proxy":"1",
          "Port":"3128",
@@ -413,11 +413,67 @@
          "Network":"smart",
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
          "Message":"SMART/SUN/TNT GIGA-STORIES promo"
+      },
+	  {
+         "Name":"[Payload] Smart GigaVideo Promo",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"lPy19x6OSVjnGLqJwfPM81PacD601BqN9bfG2IHcFfs=",
+         "Message":"SMART/SUN/TNT GIGA-VIDEO promo"
+      },
+	  {
+         "Name":"[Payload] Smart GigaStudy Promo",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"mPJ6vohlHXt1+mV62FysncH+PGNsVSvDClDDqafvvDY=",
+         "Message":"SMART/SUN/TNT GIGA-STUDY promo"
+      },
+	  {
+         "Name":"[Payload] Smart GigaWork Promo",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"mPJ6vohlHXt1+mV62FysncH+PGNsVSvDClDDqafvvDY=",
+         "Message":"SMART/SUN/TNT GIGA-WORK promo"
+      },
+	  {
+         "Name":"[Payload] Smart Sakto20/30 (VisMin)",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"ePCZa+SI3LMjy2SQGAV5wFnpYldSPOd+FJcUZePQDbURIYoX2vy23N7SpCLCczzvRw+vHr6qQ9o=",
+         "Message":"SMART Sakto20/30 promo"
+      },
+	  {
+         "Name":"[Payload] Smart AT10/AT60 Promo",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"iw8SOoJVl60cim/Pi8iesSMEw27H0ydgjDnvs8D1ry4DjfPWoXN7zzL16AKRQ8XtG0lerpJvcdA=",
+         "Message":"SMART AT10/AT60 promo"
+      },
+	  {
+         "Name":"[Payload] TNT  ML10  Promo",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"tnt",
+         "Payload":"CeBAej+oWPx+H6+iENvzXGdyubvF2D74p2AxJuEsd+nl/xt3EPrRInTTVCK5xH2N",
+         "Message":"TNT  ML10 PROMO"
+      },
+	  {
+         "Name":"[Payload] TM  ML10/FB10  Promo",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"tm",
+         "Payload":"6BDpEnTBwHVKTKgQkIHQeSOL+/+z2mjjWmynXu4/5/7k7OjZprBC+w==",
+         "Message":"TM  ML10/FB10  Promo"
       }
    ],
    "Version":[
       {
-         "Name":"3.08"
+         "Name":"3.09"
       }
    ]
 }
