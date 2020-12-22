@@ -367,7 +367,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
       {
-         "Name":"Smart/Sun/Tnt (G-Stories) 1",
+         "Name":"[Payload] Smart GigaStories 1",
          "Proxy":"0",
          "Port":"3128",
          "Network":"smart",
@@ -375,8 +375,40 @@
          "Message":"Register to GIGA-STORIES promo"
       },
       {
-         "Name":"Smart/Sun/Tnt (G-Stories) 2",
+         "Name":"[Payload] Smart GigaStories 2",
+         "Proxy":"1",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
+         "Message":"Register to GIGA-STORIES promo"
+      },
+      {
+         "Name":"[Payload] Smart GigaStories 3",
+         "Proxy":"2",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
+         "Message":"Register to GIGA-STORIES promo"
+      },
+      {
+         "Name":"[Payload] Smart GigaStories 4",
          "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
+         "Message":"Register to GIGA-STORIES promo"
+      },
+	        {
+         "Name":"[Payload] Smart GigaStories 5",
+         "Proxy":"1",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
+         "Message":"Register to GIGA-STORIES promo"
+      },
+      {
+         "Name":"[Payload] Smart GigaStories 6",
+         "Proxy":"2",
          "Port":"3128",
          "Network":"smart",
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
@@ -385,7 +417,7 @@
    ],
    "Version":[
       {
-         "Name":"3.06"
+         "Name":"3.07"
       }
    ]
 }
