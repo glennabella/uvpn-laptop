@@ -105,8 +105,24 @@
    ],
    "Networks":[
       {
-         "Name":"[Payload] GLOBE/TM ANY-PROMO",
+         "Name":"[Payload] GLOBE & TM PROMO 1",
          "Proxy":"0",
+         "Port":"3128",
+         "Network":"globe",
+         "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
+         "Message":"Any GLOBE/TM promo with DATA MB"
+      },
+	        {
+         "Name":"[Payload] GLOBE & TM PROMO 2",
+         "Proxy":"1",
+         "Port":"3128",
+         "Network":"globe",
+         "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
+         "Message":"Any GLOBE/TM promo with DATA MB"
+      },
+	        {
+         "Name":"[Payload] GLOBE & TM PROMO 3",
+         "Proxy":"2",
          "Port":"3128",
          "Network":"globe",
          "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
@@ -129,7 +145,7 @@
          "Message":"SUN FixLoadPlan300 Only"
       },
       {
-         "Name":"[Payload] Smart GigaStories 1",
+         "Name":"[Payload] Smart GIGA-STORIES 1",
          "Proxy":"0",
          "Port":"3128",
          "Network":"smart",
@@ -137,7 +153,7 @@
          "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
 	        {
-         "Name":"[Payload] Smart GigaStories 2",
+         "Name":"[Payload] Smart GIGA-STORIES 2",
          "Proxy":"0",
          "Port":"3128",
          "Network":"smart",
@@ -185,7 +201,7 @@
          "Message":"SMART AT10/AT60 promo"
       },
 	  {
-         "Name":"[Payload] TNT  ML10  Promo",
+         "Name":"[Payload] TNT  MobileLegends10",
          "Proxy":"0",
          "Port":"3128",
          "Network":"tnt",
@@ -203,7 +219,7 @@
    ],
    "Version":[
       {
-         "Name":"3.15"
+         "Name":"3.16"
       }
    ]
 }
