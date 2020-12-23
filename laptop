@@ -2,91 +2,91 @@
    "Premium":[
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.1pre1.ultimatevpn.xyz",
+         "Ip":"prm-us.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"us",
-         "Name":"(TU/CTC/FLP) Torrent & Netflix"
+         "Name":"[Server] Torrent and Netflix"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.1pre2.ultimatevpn.xyz",
+         "Ip":"prm-ca.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(TU/CTC/FLP) SINGAPORE - 1"
+         "Name":"[Server] D.O      (Canada)"
       },
       {
          "Category":0,
-         "Ip":"www.viber.com.edgekey.net.1pre3.ultimatevpn.xyz",
+         "Ip":"prm-in.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(TU/CTC/FLP) SINGAPORE - 2"
+         "Name":"[Server] D.O    (Bongalore)"
       },
       {
          "Category":0,
-         "Ip":"p16-va.tiktokcdn.com.1pre1.ultimatevpn.xyz",
+         "Ip":"prm-de.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"us",
-         "Name":"(GiGa-Stories) Torrent & Netflix"
+         "Name":"[Server] D.O     (Germany)"
       },
       {
          "Category":0,
-         "Ip":"p16-va.tiktokcdn.com.1pre2.ultimatevpn.xyz",
+         "Ip":"prm-sg.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(GiGa-Stories) SINGAPORE - 1"
+         "Name":"[Server] Vultr  (Singapore)"
       }
    ],
    "Vip":[
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.2vip1.ultimatevpn.xyz",
+         "Ip":"vip-sg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(TU/CTC/FLP) SINGAPORE - 1"
+         "Name":"[Server] D.O   (Singapore) 1"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.2vip2.ultimatevpn.xyz",
+         "Ip":"vip-sg2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(TU/CTC/FLP) SINGAPORE - 2"
+         "Name":"[Server] D.O   (Singapore) 2"
       },
       {
          "Category":1,
-         "Ip":"www.viber.com.edgekey.net.2vip3.ultimatevpn.xyz",
+         "Ip":"vip-sg3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(TU/CTC/FLP) SINGAPORE - 3"
+         "Name":"[Server] Vultr (Singapore) 3"
       },
       {
          "Category":1,
-         "Ip":"p16-va.tiktokcdn.com.2vip1.ultimatevpn.xyz",
+         "Ip":"vip-sg4.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(GiGa-Stories) SINGAPORE - 1"
+         "Name":"[Server] Vultr (Singapore) 4"
       }
    ],
    "Private":[
       {
          "Category":2,
-         "Ip":"www.viber.com.edgekey.net.3pri1.ultimatevpn.xyz",
+         "Ip":"prv-sg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"(TU/CTC/FLP) SINGAPORE - 1,"
+         "Name":"[Server] D.O   (Singapore) 1"
       },
       {
          "Category":2,
-         "Ip":"www.viber.com.edgekey.net.3pri2.ultimatevpn.xyz",
-         "udp":"0",
-         "Flag":"sg",
-         "Name":"(TU/CTC/FLP) SINGAPORE - 2"
-      },
-      {
-         "Category":2,
-         "Ip":"www.viber.com.edgekey.net.3pri3.ultimatevpn.xyz",
+         "Ip":"prv-sg2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"ph",
-         "Name":"(TU/CTC/FLP)  PHILIPPINES"
+         "Name":"[Server] Vultr (Singapore) 2"
+      },
+      {
+         "Category":2,
+         "Ip":"prv-ph1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"[Server] Cloud (Philippines)"
       }
    ],
    "categ":[
@@ -187,7 +187,7 @@
    ],
    "Version":[
       {
-         "Name":"3.13"
+         "Name":"3.14"
       }
    ]
 }
