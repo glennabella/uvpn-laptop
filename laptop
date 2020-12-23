@@ -152,13 +152,29 @@
          "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
          "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
-	        {
+	  {
          "Name":"[Payload] Smart GIGA-STORIES 2",
          "Proxy":"0",
          "Port":"3128",
          "Network":"smart",
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
          "Message":"SMART/SUN/TNT GIGA-STORIES promo"
+      },
+	  {
+         "Name":"[Payload] Smart GIGA-GAMES 1",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"5GCpakt9wWiB9tBMT8dbqhDMT6SI0SQHjuTaC8Fhx048gbsn9R4qARYje4M71jSG",
+         "Message":"SMART/SUN/TNT GIGA-GAMES promo"
+      },
+	  	  {
+         "Name":"[Payload] Smart GIGA-GAMES 2",
+         "Proxy":"0",
+         "Port":"3128",
+         "Network":"smart",
+         "Payload":"+dGvhablpZQUGps+Q8WOy0wshHygY2s3Oaj3MMWghRufAoWNp3eGMXNMp6JYo+4y",
+         "Message":"SMART/SUN/TNT GIGA-GAMES promo"
       },
 	  {
          "Name":"[Payload] Smart GigaVideo Promo",
@@ -219,7 +235,7 @@
    ],
    "Version":[
       {
-         "Name":"3.16"
+         "Name":"3.17"
       }
    ]
 }
