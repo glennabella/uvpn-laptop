@@ -2,35 +2,35 @@
    "Premium":[
       {
          "Category":0,
-         "Ip":"prm-us.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prm-us.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"us",
          "Name":"[Server] Torrent and Netflix"
       },
       {
          "Category":0,
-         "Ip":"prm-ca.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prm-ca.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] D.O      (Canada)"
       },
       {
          "Category":0,
-         "Ip":"prm-in.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prm-in.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] D.O    (Bongalore)"
       },
       {
          "Category":0,
-         "Ip":"prm-de.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prm-de.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"us",
          "Name":"[Server] D.O     (Germany)"
       },
       {
          "Category":0,
-         "Ip":"prm-sg.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prm-sg.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] Vultr  (Singapore)"
@@ -39,28 +39,28 @@
    "Vip":[
       {
          "Category":1,
-         "Ip":"vip-sg1.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.vip-sg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] D.O   (Singapore) 1"
       },
       {
          "Category":1,
-         "Ip":"vip-sg2.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.vip-sg2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] D.O   (Singapore) 2"
       },
       {
          "Category":1,
-         "Ip":"vip-sg3.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.vip-sg3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] Vultr (Singapore) 3"
       },
       {
          "Category":1,
-         "Ip":"vip-sg4.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.vip-sg4.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] Vultr (Singapore) 4"
@@ -69,21 +69,21 @@
    "Private":[
       {
          "Category":2,
-         "Ip":"prv-sg1.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prv-sg1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] D.O   (Singapore) 1"
       },
       {
          "Category":2,
-         "Ip":"prv-sg2.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prv-sg2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"ph",
          "Name":"[Server] Vultr (Singapore) 2"
       },
       {
          "Category":2,
-         "Ip":"prv-ph1.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prv-ph1.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] Cloud (Philippines)"
@@ -235,7 +235,7 @@
    ],
    "Version":[
       {
-         "Name":"3.17"
+         "Name":"3.18"
       }
    ]
 }
