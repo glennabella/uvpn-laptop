@@ -2,65 +2,93 @@
    "Premium":[
       {
          "Category":0,
-         "Ip":"p16-va.tiktokcdn.com.prm-us.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prm-sg.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"us",
-         "Name":"[Server] Torrent and Netflix"
+         "Flag":"sg",
+         "Name":"[Server] Vultr  (Singapore)"
+      },
+      {
+         "Category":0,
+         "Ip":"p16-va.tiktokcdn.com.prm-nl.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"nl",
+         "Name":"[Server] Vultr (Amsterdam)"
       },
       {
          "Category":0,
          "Ip":"p16-va.tiktokcdn.com.prm-ca.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Server] D.O      (Canada)"
+         "Flag":"ca",
+         "Name":"[Server] D.O       (Canada)"
       },
       {
          "Category":0,
          "Ip":"p16-va.tiktokcdn.com.prm-in.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
+         "Flag":"in",
          "Name":"[Server] D.O    (Bongalore)"
       },
       {
          "Category":0,
          "Ip":"p16-va.tiktokcdn.com.prm-de.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"us",
+         "Flag":"de",
          "Name":"[Server] D.O     (Germany)"
       },
       {
          "Category":0,
-         "Ip":"p16-va.tiktokcdn.com.prm-sg.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prm-us1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Server] Vultr  (Singapore)"
+         "Flag":"us",
+         "Name":"[Server] D.O   (NEW-YORK)"
+      },
+      {
+         "Category":0,
+         "Ip":"p16-va.tiktokcdn.com.prm-us.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"us",
+         "Name":"[Server] Torrent and Netflix"
       }
    ],
    "Vip":[
       {
          "Category":1,
-         "Ip":"p16-va.tiktokcdn.com.vip-sg1.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.vip-jp1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Server] D.O   (Singapore) 1"
+         "Flag":"jp",
+         "Name":"[Server] VULTR   ( JAPAN )"
       },
       {
          "Category":1,
-         "Ip":"p16-va.tiktokcdn.com.vip-sg2.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.vip-kr1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Server] D.O   (Singapore) 2"
+         "Flag":"kr",
+         "Name":"[Server] VULTR   ( KOREA )"
       },
       {
          "Category":1,
          "Ip":"p16-va.tiktokcdn.com.vip-sg3.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
-         "Name":"[Server] Vultr (Singapore) 3"
+         "Name":"[Server] Vultr (Singapore) 1"
       },
       {
          "Category":1,
          "Ip":"p16-va.tiktokcdn.com.vip-sg4.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"[Server] Vultr (Singapore) 2"
+      },
+      {
+         "Category":1,
+         "Ip":"p16-va.tiktokcdn.com.vip-sg1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"[Server] Vultr (Singapore) 3"
+      },
+      {
+         "Category":1,
+         "Ip":"p16-va.tiktokcdn.com.vip-sg2.ultimatevpn.xyz",
          "udp":"0",
          "Flag":"sg",
          "Name":"[Server] Vultr (Singapore) 4"
@@ -69,17 +97,31 @@
    "Private":[
       {
          "Category":2,
-         "Ip":"p16-va.tiktokcdn.com.prv-sg1.ultimatevpn.xyz",
+         "Ip":"p16-va.tiktokcdn.com.prv-jp1.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"sg",
-         "Name":"[Server] D.O   (Singapore) 1"
+         "Flag":"jp",
+         "Name":"[Server] VULTR   ( JAPAN )"
+      },
+      {
+         "Category":2,
+         "Ip":"p16-va.tiktokcdn.com.prv-kr1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"kr",
+         "Name":"[Server] VULTR   ( KOREA )"
       },
       {
          "Category":2,
          "Ip":"p16-va.tiktokcdn.com.prv-sg2.ultimatevpn.xyz",
          "udp":"0",
-         "Flag":"ph",
-         "Name":"[Server] Vultr (Singapore) 2"
+         "Flag":"sg",
+         "Name":"[Server] Vultr (Singapore) 1"
+      },
+      {
+         "Category":2,
+         "Ip":"p16-va.tiktokcdn.com.prv-sg1.ultimatevpn.xyz",
+         "udp":"0",
+         "Flag":"sg",
+         "Name":"[Server] D.O   (Singapore) 2"
       },
       {
          "Category":2,
@@ -112,7 +154,7 @@
          "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
          "Message":"Any GLOBE/TM promo with DATA MB"
       },
-	        {
+      {
          "Name":"[Payload] GLOBE & TM PROMO 2",
          "Proxy":"1",
          "Port":"3128",
@@ -120,7 +162,7 @@
          "Payload":"alSfSA0fVACOgVe4yw2HgASJeWGRtXe22VtlxQ7YNCKyIJgsJ3B6Bw==",
          "Message":"Any GLOBE/TM promo with DATA MB"
       },
-	        {
+      {
          "Name":"[Payload] GLOBE & TM PROMO 3",
          "Proxy":"2",
          "Port":"3128",
@@ -136,7 +178,7 @@
          "Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
          "Message":"SUN FixLoadPlan300 Only"
       },
-	        {
+      {
          "Name":"[Payload] SUN FixLoadPlan300 2",
          "Proxy":"0",
          "Port":"3128",
@@ -152,7 +194,7 @@
          "Payload":"PijNZ+UbwkbDD5tksno/tRdV6CiSdLQzE8/2MtSYz44LSN1jAuFmUUOttND9Oj2A",
          "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
-	  {
+      {
          "Name":"[Payload] Smart GIGA-STORIES 2",
          "Proxy":"0",
          "Port":"3128",
@@ -160,7 +202,7 @@
          "Payload":"XOkCBrinRK4DAAphU0Xn70CtLkbz7jsUkXPNZO1XHhc=",
          "Message":"SMART/SUN/TNT GIGA-STORIES promo"
       },
-	  {
+      {
          "Name":"[Payload] Smart GIGA-GAMES 1",
          "Proxy":"0",
          "Port":"3128",
@@ -168,7 +210,7 @@
          "Payload":"5GCpakt9wWiB9tBMT8dbqhDMT6SI0SQHjuTaC8Fhx048gbsn9R4qARYje4M71jSG",
          "Message":"SMART/SUN/TNT GIGA-GAMES promo"
       },
-	  	  {
+      {
          "Name":"[Payload] Smart GIGA-GAMES 2",
          "Proxy":"0",
          "Port":"3128",
@@ -176,7 +218,7 @@
          "Payload":"+dGvhablpZQUGps+Q8WOy0wshHygY2s3Oaj3MMWghRufAoWNp3eGMXNMp6JYo+4y",
          "Message":"SMART/SUN/TNT GIGA-GAMES promo"
       },
-	  {
+      {
          "Name":"[Payload] Smart GigaVideo Promo",
          "Proxy":"0",
          "Port":"3128",
@@ -184,7 +226,7 @@
          "Payload":"lPy19x6OSVjnGLqJwfPM81PacD601BqN9bfG2IHcFfs=",
          "Message":"SMART/SUN/TNT GIGA-VIDEO promo"
       },
-	  {
+      {
          "Name":"[Payload] Smart GigaStudy Promo",
          "Proxy":"0",
          "Port":"3128",
@@ -192,7 +234,7 @@
          "Payload":"mPJ6vohlHXt1+mV62FysncH+PGNsVSvDClDDqafvvDY=",
          "Message":"SMART/SUN/TNT GIGA-STUDY promo"
       },
-	  {
+      {
          "Name":"[Payload] Smart GigaWork Promo",
          "Proxy":"0",
          "Port":"3128",
@@ -200,7 +242,7 @@
          "Payload":"mPJ6vohlHXt1+mV62FysncH+PGNsVSvDClDDqafvvDY=",
          "Message":"SMART/SUN/TNT GIGA-WORK promo"
       },
-	  {
+      {
          "Name":"[Payload] Smart Sakto20/30 (VisMin)",
          "Proxy":"0",
          "Port":"3128",
@@ -208,7 +250,7 @@
          "Payload":"ePCZa+SI3LMjy2SQGAV5wFnpYldSPOd+FJcUZePQDbURIYoX2vy23N7SpCLCczzvRw+vHr6qQ9o=",
          "Message":"SMART Sakto20/30 promo"
       },
-	  {
+      {
          "Name":"[Payload] Smart AT10/AT60 Promo",
          "Proxy":"0",
          "Port":"3128",
@@ -216,7 +258,7 @@
          "Payload":"iw8SOoJVl60cim/Pi8iesSMEw27H0ydgjDnvs8D1ry4DjfPWoXN7zzL16AKRQ8XtG0lerpJvcdA=",
          "Message":"SMART AT10/AT60 promo"
       },
-	  {
+      {
          "Name":"[Payload] TNT  MobileLegends10",
          "Proxy":"0",
          "Port":"3128",
@@ -224,7 +266,7 @@
          "Payload":"CeBAej+oWPx+H6+iENvzXGdyubvF2D74p2AxJuEsd+nl/xt3EPrRInTTVCK5xH2N",
          "Message":"TNT  ML10 PROMO"
       },
-	  {
+      {
          "Name":"[Payload] TM  ML10/FB10  Promo",
          "Proxy":"0",
          "Port":"3128",
@@ -235,7 +277,7 @@
    ],
    "Version":[
       {
-         "Name":"3.19"
+         "Name":"3.21"
       }
    ]
 }
